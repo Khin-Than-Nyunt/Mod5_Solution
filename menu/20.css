@@ -1,4 +1,4 @@
-*{padding: 0;margin: 0;box-sizing: border-box;text-decoration: none;list-style: none;}
+*{padding: 0;margin: 0;box-sizing: border-box;text-decoration: none;list-style: none;  }
 
 .contenar{width: 100%;height:auto;background: darkviolet;position: relative;}
 
@@ -106,7 +106,7 @@ hr{display: none;}
   background-color: rgba(52, 116, 52,.9);
   transition: all ease-in-out .7s;}
 
-.child2{width: 280px}
+  .child2{width: 280px}
 .child3{width: 280px}
 .child4{width: 280px;}
 
